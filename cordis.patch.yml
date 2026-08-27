@@ -1,0 +1,4 @@
+# Balance-chip plugin for the web profile: one loader entry.
+- insert:
+    - id: ui-balance-chip
+      name: '@dsh-external/dsh-client-ui-balance-chip'
